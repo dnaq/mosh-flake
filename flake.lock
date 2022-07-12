@@ -18,11 +18,11 @@
     "mosh": {
       "flake": false,
       "locked": {
-        "lastModified": 1657054606,
-        "narHash": "sha256-6g1ZHU5GnAIUQDQ9FeXvlw9ejV6X8RR1YlXqW7ln36c=",
+        "lastModified": 1657588878,
+        "narHash": "sha256-xSiQcpltGJnApgiD9fJZKUM5gY7L1YU/Zjx+aWhBlzU=",
         "owner": "mobile-shell",
         "repo": "mosh",
-        "rev": "581bd67c5ad51cb59176472101f6a0b03703e494",
+        "rev": "0982212ca77cf068725a0a352e50fc017a768a85",
         "type": "github"
       },
       "original": {
