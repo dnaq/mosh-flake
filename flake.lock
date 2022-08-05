@@ -18,11 +18,11 @@
     "mosh": {
       "flake": false,
       "locked": {
-        "lastModified": 1659577346,
-        "narHash": "sha256-iKwGpwQgc3d8ZB1Uw4RBHgkwW21e+mGMpG49UGYdpHw=",
+        "lastModified": 1659647743,
+        "narHash": "sha256-8/IKcUg2UzrRqm+9B5g7c4IfdyD4optEMwmwzYFs6cA=",
         "owner": "mobile-shell",
         "repo": "mosh",
-        "rev": "fe72a3e084f0d37ee18a719f0ecde4aeb8af10e8",
+        "rev": "f3665fb99bffc5929193a204d8540d74749b52c3",
         "type": "github"
       },
       "original": {
@@ -33,11 +33,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1659487974,
-        "narHash": "sha256-CVGOtR/Wyq3TVCjf8/kdnYD5G2JwUKUQVtd+5WIDTuY=",
+        "lastModified": 1659522808,
+        "narHash": "sha256-HBcM19nGhI3IWwPNVlYb0MZ8VW6iKp4JbAVkeIHVykc=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "12363fb6d89859a37cd7e27f85288599f13e49d9",
+        "rev": "168d1c578909dc143ba52dbed661c36e76b12b36",
         "type": "github"
       },
       "original": {
